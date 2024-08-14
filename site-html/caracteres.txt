@@ -1,0 +1,49 @@
+### SÍMBOLOS ESPECIAIS ###
+
+MAIOR MENOR:
+&lt; = menor que
+&gt; = maior que
+&le; = menor igual
+&ge; = maior igual
+
+MOEDAS:
+&pound; = libras
+&yen; = iene
+&euro; = euro
+
+MARCAS:
+&copy; = copyrights
+&reg; = marca registada
+&trade; = trade mark
+
+OPERAÇÕES MATEMÁTICAS:
+&permil; = dividido por mil
+&sum; = soma
+&infin; = infinito
+&times; = multiplicação
+&plusmn; = mais ou menos
+&oplus; = mais dentro da circunferência
+&radic; = raiz quadrada
+&ne; = diferente
+
+LETRAS GREGAS:
+&delta; = delta minusculo
+&Delta; = delta maiusculo
+&Lambda; = lambda
+&omega; = omega
+&phi; = phi
+
+SETAS:
+&larr; = seta esquerda
+rarr; = seta direita
+&uarr; = seta p/ cima
+&darr; = seta p/ baixo 
+&harr; = seta p/ os dois lados
+
+BARALHO:
+&spades; = espadas   
+&clubs; = paus
+&hearts; = corações
+&diams; = diamante
+
+
